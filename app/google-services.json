@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241657308354",
+    "project_id": "baum2x",
+    "storage_bucket": "baum2x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241657308354:android:6b1b58c36bca1a5955075b",
+        "android_client_info": {
+          "package_name": "com.example.baum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241657308354-5o49qgpjqqdc9dpaelqcs45rads7j75v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baum",
+            "certificate_hash": "49a3c35244ee254db2370b0ff5d22366768b5025"
+          }
+        },
+        {
+          "client_id": "241657308354-sunjgcp106nb9psqha440nfp64c23ndj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcDXFxFTVknxJ1-tkhYGBdplwyCTNrH1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241657308354-sunjgcp106nb9psqha440nfp64c23ndj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
